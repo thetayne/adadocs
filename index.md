@@ -18,7 +18,7 @@ sdfwe
 
 IDK wo is es
 
-{% include_relative assets/genre_distribution.html %}
+{% include genre_distribution.html %}
 
 
 hallo
