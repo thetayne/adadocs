@@ -6,7 +6,7 @@ layout: minimal
 # Datastory is back
 sdfwe
 
-![Alt text](/assets/logo_epfl.png)
+![Alt text](/assets/epfl_logo.png)
 
 
 
