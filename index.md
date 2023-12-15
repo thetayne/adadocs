@@ -16,6 +16,7 @@ sdfwe
      style="display: block; max-height:230px; height: auto; width: auto; margin: auto" /> 
 {: .flex-justify-between}
 
+IDK wo is es
 
 {% include_relative assets/genre_distribution.html %}
 
