@@ -11,11 +11,10 @@ sdfwe
      style="display: block; max-height:230px; height: auto; width: auto; margin: auto" /> 
 {: .flex-justify-between}
 
-
 <img src="./assets/5Tz.gif"
-     alt="Logo"/>
-
-
+     alt="Description of GIF"
+     style="display: block; max-height:230px; height: auto; width: auto; margin: auto" /> 
+{: .flex-justify-between}
 
 ## Ok this is how we do
 ahdshdf
