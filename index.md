@@ -17,8 +17,7 @@ sdfwe
 {: .flex-justify-between}
 
 
-{% include_relative ./assets/genre_distribution.html %}
-
+{% include_relative assets/genre_distribution.html %}
 
 ## Ok this is how we do
 ahdshdf
