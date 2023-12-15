@@ -25,6 +25,11 @@ hallo
 
 {% include_relative assets/interactive_genre_subplots.html %}
 
+kk
+
+{% include_relative assets/genre_interactive_graph.html %}
+
+
 
 ## Ok this is how we do
 ahdshdf
