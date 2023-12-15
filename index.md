@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Ada shine
 layout: home
 ---
 
