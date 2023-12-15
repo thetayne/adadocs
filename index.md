@@ -6,7 +6,10 @@ layout: minimal
 # Datastory is back
 sdfwe
 
-![Alt text](/assets/epfl_logo.png)
+<img src="./assets/epfl_logo.png"
+     alt="Logo"
+     style="display: block; max-height:230px; height: auto; width: auto; margin: auto" /> 
+{: .flex-justify-between}
 
 
 
