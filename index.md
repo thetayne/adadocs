@@ -1,6 +1,6 @@
 
 ---
-title: Datastory
+title: home
 layout: home
 ---
 
